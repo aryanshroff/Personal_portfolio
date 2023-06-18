@@ -3,7 +3,7 @@ import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
-import Map from "./components/Map";
+
 //import Work from "./components/Work";
 
 
@@ -15,7 +15,7 @@ function App() {
       <About />
       <Skills />
       <Contact />
-      <Map/>
+      
     </div>
   );
 }
